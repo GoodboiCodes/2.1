@@ -1,0 +1,46 @@
+body {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section.scContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div.dvContainer {
+    width: 40%;
+    background-color: #F0DEC6;
+    text-align: center;
+    padding: 20px;
+    border-radius: 32pt;
+
+}
+
+div.headerNav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+p {
+    font-size: 15pt;
+}
+
+h1 {
+    font-size: 30pt;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20pt;
+}
+
+li {
+    list-style: none;
+    font-size: 15pt;
+    text-align: center;
+    margin: 0%;
+}
