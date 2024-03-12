@@ -90,6 +90,7 @@ div.dvAcademiccontainer {
     background-color: #F0DEC6;
     padding: 10px;
     border-radius: 32pt;
+    margin-bottom: 50px;
 }
 
 h2 {
@@ -99,4 +100,29 @@ h2 {
 
 section.selfIntroduction, section.academicContainer {
     margin-top: 50px;
+}
+
+fieldset {
+    border-color: black;
+}
+
+#Contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div.dvContact {
+    background-color: #F0DEC6;
+    padding: 20px;
+    width: 50%;
+    border-radius: 32pt;
+    margin: 50px;
+}
+
+hr {
+    color: black;
+    
+
 }
