@@ -121,8 +121,7 @@ div.dvContact {
     margin: 50px;
 }
 
-hr {
-    color: black;
-    
-
+div.mp4 {
+    display: flex;
+    justify-content: center;
 }
